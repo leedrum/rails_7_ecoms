@@ -72,5 +72,6 @@ group :test do
 end
 
 gem "activeadmin"
+gem "ancestry"
 gem "devise", "~> 4.9"
 gem "font-awesome-sass", "~> 6.5.1"
