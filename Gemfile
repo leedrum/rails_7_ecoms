@@ -71,5 +71,6 @@ group :test do
   gem "selenium-webdriver"
 end
 
+gem "activeadmin"
 gem "devise", "~> 4.9"
 gem "font-awesome-sass", "~> 6.5.1"
