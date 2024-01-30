@@ -63,6 +63,9 @@ group :development do
   # gem "spring"
 
   gem "error_highlight", ">= 0.4.0", platforms: [:ruby]
+  gem "rubocop-packaging", require: false
+  gem "rubocop-shopify", require: false
+  gem "ruby-lsp"
 end
 
 group :test do
