@@ -9,5 +9,6 @@ Metrics/BlockLength:
     - 'lib/tasks/**/*'
     - 'app/admin/**/*'
 
-Exclude:
-  - 'db/schema.rb'
+AllCops:
+  Exclude:
+    - 'db/schema.rb'
