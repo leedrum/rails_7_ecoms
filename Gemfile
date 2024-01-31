@@ -77,6 +77,8 @@ group :test do
 end
 
 gem 'activeadmin'
+# gem 'acts-as-taggable-on', '~> 9.0'
 gem 'ancestry'
 gem 'devise', '~> 4.9'
 gem 'font-awesome-sass', '~> 6.5.1'
+gem 'paranoia'
