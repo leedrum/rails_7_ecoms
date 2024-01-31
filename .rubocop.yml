@@ -8,3 +8,6 @@ Metrics/BlockLength:
     - 'config/**/*'
     - 'lib/tasks/**/*'
     - 'app/admin/**/*'
+
+Exclude:
+  - 'db/schema.rb'
